@@ -1,45 +1,35 @@
-# Data Visualization of ICC Cricket World Cup 2023 trends using Matplotlib & Seaborn.
-This repository focuses on visualizing insights and trends from the ICC Cricket World Cup 2023 using Matplotlib and Seaborn. The goal is to explore the tournament data and uncover meaningful patterns through engaging visualizations.
+# Data Visualization of ICC Cricket World Cup 2023 using Matplotlib & Seaborn
 
-🔹 Key Insights Covered
+## Objective
+To analyze and visualize key trends and insights from the ICC Cricket World Cup 2023 using Python data visualization libraries.
 
-📈 Match Outcomes – Which teams won the most matches.
+## Overview
+This repository focuses on visualizing insights and trends from the ICC Cricket World Cup 2023 using Matplotlib and Seaborn. The goal is to explore tournament data and uncover meaningful patterns through engaging visualizations.
 
-🎯 Batting & Bowling Trends – Top run scorers and leading wicket-takers.
+## Key Insights Covered
+- 📈 Match Outcomes – Teams with the highest number of wins
+- 🎯 Batting & Bowling Trends – Top run scorers and leading wicket-takers
+- 🏟️ Venues Analysis – Stadiums hosting the most matches
+- 🪙 Toss Decisions – Impact of toss on match results
+- ⚖️ Win Margins – Matches won by runs vs wickets
+- 📊 Team & Player Comparisons – Performance trends across teams and players
 
-🏟️ Venues Analysis – Venues hosting the most matches.
+## Dataset
+The dataset contains match-level and player-level statistics from the ICC Cricket World Cup 2023.
 
-🪙 Toss Decisions – Toss outcomes and their impact on match results.
+## Skills Demonstrated
+- Data cleaning and preprocessing
+- Exploratory data analysis (EDA)
+- Statistical trend analysis
+- Data visualization and storytelling
 
-⚖️ Win Margins – Matches won by runs vs. wickets.
+## Tech Stack
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
 
-📊 Comparisons & Trends – Team-wise and player-wise performance breakdowns.
+## Conclusion
+Cricket is a data-rich sport, and this project demonstrates how Python visualization libraries can be used to extract actionable insights from real-world sports data.
 
-
-
-🔹 Why This Repository?
-
-Cricket is not just a sport, it’s full of statistics and strategies. By visualizing the World Cup 2023 data, this repository helps in:
-
-Understanding team performances and strengths.
-
-Analyzing player contributions.
-
-Exploring toss & venue factors influencing outcomes.
-
-Learning how to use Matplotlib and Seaborn for real-world sports analytics.
-
-
-
-🔹 Tech Stack
-Python 🐍
-
-Matplotlib 🎨
-
-Seaborn 🌊
-
-Pandas (for data handling) 📑
-
-✨ A perfect blend of Cricket + Data Science! Feel free to explore, fork, and contribute.
-
-✨ A perfect blend of Cricket + Data Science! Feel free to explore, fork, and contribute.
+✨ A perfect blend of Cricket + Data Science!
